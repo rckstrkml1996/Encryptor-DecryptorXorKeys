@@ -15,15 +15,9 @@ Enc/Dec Xor-Keys in Python
 
 ## Использование
 
-1.```cmd
-fastboot flash recovery path\to\twrp.img
-fastboot reboot recovery ```
-
-2. Введите исходный текст в поле Text
-3. Выберите длину ключа в битах или сгенерируйте случайный ключ заданной длины
-4. Нажмите Encrypt - текст будет зашифрован
-5. Скопируйте зашифрованный текст и сохраните ключ
-
+1.``` $git clone https://github.com/rckstrkml1996/Encryptor-DecryptorXorKeys ```
+2.``` cd rckstrkml1996/Encryptor-DecryptorXorKeys ```
+3.``` py main.py ```
 Для расшифровки:
 
 1. Запустите приложение Decryptor.exe
