@@ -15,10 +15,10 @@ Enc/Dec Xor-Keys in Python
 
 ## Использование
 
-1. ```cmd
+1.```cmd
 fastboot flash recovery path\to\twrp.img
-fastboot reboot recovery
-```
+fastboot reboot recovery ```
+
 2. Введите исходный текст в поле Text
 3. Выберите длину ключа в битах или сгенерируйте случайный ключ заданной длины
 4. Нажмите Encrypt - текст будет зашифрован
@@ -41,6 +41,4 @@ fastboot reboot recovery
 - Язык: C# (.NET Framework 4.7.2)
 - Интерфейс: Windows Forms
 
-## Автор  
 
-Иван Иванов, [@ivan_ivanov](https://github.com/ivan_ivanov)
