@@ -1,8 +1,4 @@
 # Encryptor-DecryptorXorKeys
-Enc/Dec Xor-Keys in Python
-
-
-# Encryptor-DecryptorXorKeys
 
 Это приложение позволяет шифровать и расшифровывать текст с использованием ключей XOR.
 
@@ -26,7 +22,7 @@ python main.py
 
 ## Технологии
 
-- Язык: C# (.NET Framework 4.7.2)
-- Интерфейс: Windows Forms
+- Язык: Python
+- Интерфейс: CMD
 
 
