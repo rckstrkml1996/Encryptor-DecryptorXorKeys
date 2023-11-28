@@ -15,7 +15,10 @@ Enc/Dec Xor-Keys in Python
 
 ## Использование
 
-1. '''$gitclone '''
+1. ```cmd
+fastboot flash recovery path\to\twrp.img
+fastboot reboot recovery
+```
 2. Введите исходный текст в поле Text
 3. Выберите длину ключа в битах или сгенерируйте случайный ключ заданной длины
 4. Нажмите Encrypt - текст будет зашифрован
