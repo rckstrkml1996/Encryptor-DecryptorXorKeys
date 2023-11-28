@@ -18,6 +18,9 @@ Enc/Dec Xor-Keys in Python
 ```cmd
 git clone https://github.com/rckstrkml1996/Encryptor-DecryptorXorKeys
 cd rckstrkml1996/Encryptor-DecryptorXorKeys
+```
+##### Запуск
+```cmd
 python main.py
 ```
 
