@@ -14,10 +14,11 @@ Enc/Dec Xor-Keys in Python
 - Выбор длины ключа в битах  
 
 ## Использование
-
-1.``` $git clone https://github.com/rckstrkml1996/Encryptor-DecryptorXorKeys ```
-2.``` cd rckstrkml1996/Encryptor-DecryptorXorKeys ```
-3.``` py main.py ```
+##### Установка
+```cmd
+fastboot flash recovery path\to\twrp.img
+fastboot reboot recovery
+```
 Для расшифровки:
 
 1. Запустите приложение Decryptor.exe
